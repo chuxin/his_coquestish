@@ -1,0 +1,21 @@
+{
+  "status": 0,
+  "msg": "请求成功",
+  "my_data": [{
+    "id": 22,
+    "username": "yian11",
+    "email": "48522243521@162.com",
+    "phone": null,
+    "role": 0,
+    "createTime": 7456454542454,
+    "updateTime": 7456454542454
+  },{
+    "id": 22,
+    "username": "yian22",
+    "email": "48522243521@162.com",
+    "phone": null,
+    "role": 0,
+    "createTime": 7456454542454,
+    "updateTime": 7456454542454
+  }]
+}

@@ -1,0 +1,16 @@
+{
+  "posts": {
+    "title": "json-server 222sss2",
+    "author": "我是全局安装的json-server服务"
+  },
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
